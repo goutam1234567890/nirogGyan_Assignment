@@ -33,7 +33,7 @@ A modern, responsive web application for booking healthcare appointments built w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/healthcare-appointment-booking.git
+   git clone https://github.com/goutam1234567890/nirogGyan_Assignment
    cd healthcare-appointment-booking
    ```
 
